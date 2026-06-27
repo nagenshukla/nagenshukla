@@ -18,9 +18,9 @@ GBDTs: gradient boosting deep-dive (XGBoost and friends)
 GNN: graph neural network experiments (GCN, GraphSAGE, GAT, GIN and others)
 
 
-I also publish trained model artifacts on Kaggle withe notebooks. eg: https://www.kaggle.com/code/nagenshukla/inference-explainer
+I also publish trained model artifacts on Kaggle with notebooks. Ref: https://www.kaggle.com/code/nagenshukla/inference-explainer
 
-Recognition — Principal inventor on US Patent App 17/038,216 (Automated Behavior Recommendation System). Multiple CEO-level awards at Capital One for cloud and AI platform work. AWS Solutions Architect Professional, Azure Solutions Architect Expert, and Anthropic-certified across Advanced MCP, AI Agents, and Claude API.
+Recognition - Principal inventor on US Patent App 17/038,216 (Automated Behavior Recommendation System). Multiple CEO-level awards at Capital One for cloud and AI platform work. AWS Solutions Architect Professional, Azure Solutions Architect Expert, and Anthropic-certified across Advanced MCP, AI Agents, and Claude API.
 
 
 📫 Reach me on LinkedIn: https://linkedin.com/in/nagenshukla
