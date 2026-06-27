@@ -13,9 +13,9 @@ Exposing enterprise APIs via MCP servers and governing external MCPs for agent s
 Outside work, I build focused ML deep-dives to stay close to the craft. These repos are the code companions to my LinkedIn write-ups:
 
 
-bone_age — EfficientNet-B4 for pediatric bone age estimation on the RSNA hand X-ray dataset
-GBDTs — gradient boosting deep-dive (XGBoost and friends)
-GNN — graph neural network experiments
+bone_age: EfficientNet-B4 for pediatric bone age estimation on the RSNA hand X-ray dataset
+GBDTs: gradient boosting deep-dive (XGBoost and friends)
+GNN: graph neural network experiments (GCN, GraphSAGE, GAT, GIN and others)
 
 
 I also publish trained model artifacts on Kaggle withe notebooks. eg: https://www.kaggle.com/code/nagenshukla/inference-explainer
