@@ -10,7 +10,7 @@ Responsible AI policy, token-cost governance, and ML operations at scale (65% co
 Exposing enterprise APIs via MCP servers and governing external MCPs for agent safety.
 
 
-Outside work, I build focused ML deep-dives to stay close to the craft. These repos are the code companions to my LinkedIn write-ups:
+Outside work, I build focused ML deep-dives and guide the engineering community. These repos are the code companions to my LinkedIn write-ups:
 
 
 bone_age: EfficientNet-B4 for pediatric bone age estimation on the RSNA hand X-ray dataset
