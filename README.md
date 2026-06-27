@@ -1,6 +1,6 @@
 Hi, I'm Nagen 👋
 
-Seasoned tech leader and a generalist ML practitioner working across deep learning, big data and solution development. I like projects where the modeling choice actually matters (small datasets, weird distributions, structured inputs) more than scaling for its own sake. Currently leading AI adoption, agentic workflows, and data platforms for large teams.
+Seasoned tech leader and ML practitioner working across deep learning, big data and solution development. I like projects where the modeling choice actually matters (small datasets, weird distributions, structured inputs) more than scaling for its own sake. Currently leading AI adoption, agentic workflows, and data platforms for large teams.
 
 **At work, focused on:**
 
@@ -10,7 +10,7 @@ Seasoned tech leader and a generalist ML practitioner working across deep learni
 - Exposing enterprise APIs via MCP servers and governing external MCPs for agent safety.
 
 
-Outside work, I build focused ML deep-dives to stay close to the craft. These repos are the code companions to my LinkedIn write-ups:
+Outside work, I build focused ML deep-dives and guide the engineering community. These repos are the code companions to my LinkedIn write-ups:
 
 
 - bone_age: EfficientNet-B4 for pediatric bone age estimation on the RSNA hand X-ray dataset
