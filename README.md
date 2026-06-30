@@ -1,6 +1,6 @@
 Hi, I'm Nagen 👋
 
-Seasoned tech leader and ML practitioner working across deep learning, big data and solution development. I like projects where the modeling choice actually matters (small datasets, weird distributions, structured inputs) more than scaling for its own sake. Currently leading AI adoption, agentic workflows, and data platforms for large teams.
+Seasoned tech leader, IAM/security and ML practitioner working across access, deep learning, big data and solution development. I like projects where the modeling choice actually matters (small datasets, weird distributions, structured inputs) more than scaling for its own sake. Currently leading AI adoption, agentic workflows, and data platforms for large teams.
 
 **At work, focused on:**
 
